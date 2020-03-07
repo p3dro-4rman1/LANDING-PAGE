@@ -39,7 +39,7 @@ section#cabecalho header{
 /* DIV com o fundo da cidade */
 
 div#secao-1{
-    background-image: url("/img/fundocidade.jpg");
+    background-image: url("../img/fundocidade.jpg");
     height: 500px;
 }
 
